@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="QCAR_Dataset_config.xsd">
+  <TargetSet version="5.0" toolVersion="4.2.0">
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2018-04-19 11:26:28" name="YellowBananaScan" targetId="da5cba938f3746bb87befe4b9161024a" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2018-04-18 14:29:57" name="banannaScan" targetId="b53cacc5152f49c8ab6faa168b6905e0" version="2.0" />
+  </TargetSet>
+</QCARInfo>
